@@ -1,6 +1,7 @@
 <h1 align="center"> 💬 BypassNSFW 💬 </h1>
 
 <p align='center'>
+  <b>This is ignshifts plugin. I only fixed errors.</b><br>
   <b>Removes Discord's Age Gate, allowing you to view Age Restricted Content</b><br>
 </p>
 
