@@ -1,4 +1,4 @@
-<h1 align="center"> 💬 BetterBypassNSFW 💬 </h1>
+<h1 align="center"> 👁️ BetterBypassNSFW 👁️ </h1>
 
 <p align='center'>
   <b>This is ignshifts plugin. I only fixed errors.</b><br>
