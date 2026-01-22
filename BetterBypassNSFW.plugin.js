@@ -4,7 +4,7 @@
  * @version 1.0.0
  * @author stew.y
  * @source https://github.com/4stewy/BetterBypassNSFW
- * @updateUrl
+ * @updateUrl https://github.com/4stewy/BetterBypassNSFW/raw/main/BetterBypassNSFW.plugin.js
  */
 
 module.exports = class Bypass {
@@ -31,3 +31,4 @@ module.exports = class Bypass {
         clearInterval(this.interval);
     }
 };
+
