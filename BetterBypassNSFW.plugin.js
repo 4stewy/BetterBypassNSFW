@@ -1,6 +1,6 @@
 /**
  * @name BetterBypassNSFW
- * @description An updated BypassNSFW plugin / 
+ * @description An updated BypassNSFW plugin
  * @version 1.0.0
  * @author stew.y
  * @source https://github.com/4stewy/BetterBypassNSFW
@@ -31,4 +31,3 @@ module.exports = class Bypass {
         clearInterval(this.interval);
     }
 };
-
